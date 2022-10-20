@@ -1,0 +1,7 @@
+body {
+    background-color: rgb(39, 38, 38);
+    text-align: center;
+}
+p, h1, a {
+    color: azure;
+}
